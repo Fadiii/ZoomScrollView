@@ -1,2 +1,2 @@
 # ZoomScrollView
-Adds zooming and scrolling functionality to your view
+Implements Zooming and Scrolling functionality

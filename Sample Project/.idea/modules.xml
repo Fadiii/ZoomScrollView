@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ZoomScroll.iml" filepath="$PROJECT_DIR$/ZoomScroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZoomScroll/ZoomScroll-ZoomScroll.iml" filepath="$PROJECT_DIR$/ZoomScroll/ZoomScroll-ZoomScroll.iml" />
+    </modules>
+  </component>
+</project>
