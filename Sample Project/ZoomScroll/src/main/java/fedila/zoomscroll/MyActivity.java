@@ -27,9 +27,9 @@ public class MyActivity extends Activity {
         image.setScaleType(ImageView.ScaleType.FIT_START);
 
         // Create ZoomScroll view
-        ZoomScrollView layout = new ZoomScrollView(this, motherLayout, true, true);
+        ZoomScrollView zoomScrollView = new ZoomScrollView(this, motherLayout, true, true);
 
         // add imageView to ZoomScroll
-        layout.addView(image);
+        zoomScrollView.addView(image);
     }
 }
