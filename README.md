@@ -10,6 +10,5 @@ The easiest way to get this working is to wrap you view inside ZoomScrollView li
         ZoomScrollView layout = new ZoomScrollView(this, motherLayout, false, false);
         // add your view to ZoomScrollView
         layout.addView(image);
-        
 # Author
 Fedil A.
