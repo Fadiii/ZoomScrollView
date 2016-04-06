@@ -6,9 +6,9 @@ The easiest way to get this working is to wrap you view inside ZoomScrollView li
         // Create a view
         ImageView image = new ImageView(this);
         ..set it up
-        // Create ZoomScroll view
+        // Create ZoomScrollView
         ZoomScrollView layout = new ZoomScrollView(this, motherLayout, false, false);
-        // add your view to ZoomScroll
+        // add your view to ZoomScrollView
         layout.addView(image);
         
 # Author
