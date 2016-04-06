@@ -1,6 +1,6 @@
 # ZoomScrollView for Android
 Adds zooming and scrolling functionality to your view.
-# Usage 
+## Usage 
 Add ZoomScrollView.java to your project.
 The easiest implementation is to wrap you view inside ZoomScrollView like this:
 
@@ -14,7 +14,7 @@ The easiest implementation is to wrap you view inside ZoomScrollView like this:
 You might have noticed that zoomScrollView does not get manually added to the main layout. This is done internally.
 
 Alternatively, you could have your view extend the ZoomScrollView class.
-# Example
+## Example
 In "Sample Project" you will find a project that demonstrates use of the ZoomScrollView class.
-# Author
+## Author
 Fedil A.
