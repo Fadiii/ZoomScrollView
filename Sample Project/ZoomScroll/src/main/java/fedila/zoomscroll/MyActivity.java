@@ -29,7 +29,7 @@ public class MyActivity extends Activity {
         // Create ZoomScroll view
         ZoomScrollView layout = new ZoomScrollView(this, motherLayout, true, true);
 
-        // add imageView to ZoomScroll view using created parameters
+        // add imageView to ZoomScroll
         layout.addView(image);
     }
 }
