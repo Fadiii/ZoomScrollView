@@ -2,7 +2,7 @@
 Adds zooming and scrolling functionality to your view.
 ## Usage 
 Add ZoomScrollView.java to your project.
-The easiest implementation is to wrap you view inside ZoomScrollView like this:
+The easiest implementation is to wrap your view inside ZoomScrollView like this:
 
         // Create a view
         ImageView image = new ImageView(this);
